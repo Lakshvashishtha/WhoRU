@@ -12,7 +12,7 @@ How to run?
 4. put it inside \Attendance-System-Using-Face-Recognition\face_recognition_data directory
 5. run pip install -r requirements.txt inside \Attendance-System-Using-Face-Recognition directory
 6. Run python manage.py runserver inside \Attendance-System-Using-Face-Recognition directory to run the project
-7. by default the admin password should be set to 'echidna123' and the username is admin.
+7. by default the admin password should be set to 'Hithere123' and the username is admin.
 8. the admin has been abled to change the password using the command:
  		python manage.py changepassword admin
 
